@@ -11,4 +11,6 @@ fi
 
 Output : 
 
+Enter a year : 2020
+2020 this is leap year
 
